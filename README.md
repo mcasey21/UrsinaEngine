@@ -6,6 +6,8 @@ The background moves to give the effet of travelling through space.
 
 unfinished -> It has some small features unfinished - no proper end screen, only one bullet at a time needs to be fixed
 
+![Game Image](spaceShipGame.png)
+
 # 3D ursina use
 I wanted to use ursinas 3D models as I found it so interesting that a simple couple of line could render in 3D graphics
 espically the fact its written in python
