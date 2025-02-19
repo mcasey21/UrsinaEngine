@@ -11,5 +11,5 @@ I wanted to use ursinas 3D models as I found it so interesting that a simple cou
 espically the fact its written in python
 
 This small project shows what I learned from the documentation and various videos. It has a moveable cube that can hit 
-the walls, the wallsm change texture and colour to signify the walls health is diminishing, the cube eventually breaks
+the walls, the walls change texture and colour to signify the walls health is diminishing, the cube eventually breaks
 both walls and the program ends
